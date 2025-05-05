@@ -2,6 +2,10 @@
 
 My own modest typescript solutions for LeetCode tasks
 
+```sh
+yarn test
+```
+
 ## Easy
 
 - [x] 1.  Two Sum
